@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Tech News</title>
+    <link>https://www.technews.com</link>
+    <description>Las últimas novedades tecnológicas</description>
+    
+    <item>
+      <title>Apple lanza nuevo MacBook con chip M3</title>
+      <link>https://www.technews.com/macbook-m3</link>
+      <description>Apple sorprende al mercado con el lanzamiento de su nuevo MacBook impulsado por el chip M3.</description>
+      <pubDate>Mon, 01 Apr 2024 10:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Google presenta Android 15</title>
+      <link>https://www.technews.com/android15</link>
+      <description>La nueva versión del sistema operativo de Google incorpora mejoras de privacidad y rendimiento.</description>
+      <pubDate>Wed, 27 Mar 2024 14:30:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>ChatGPT ahora con voz y visión</title>
+      <link>https://www.technews.com/chatgpt-voz-vision</link>
+      <description>OpenAI lanza nuevas funciones para su modelo de IA, incluyendo capacidad de conversación por voz y análisis de imágenes.</description>
+      <pubDate>Fri, 22 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
