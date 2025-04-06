@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech News</title>
     <link>https://www.technews.com</link>
     <description>Las últimas novedades tecnológicas</description>
+    <atom:link href="https://fgexposito.github.io/rss-feed-technews/feeds_rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Apple lanza nuevo MacBook con chip M3</title>
-      <link>https://www.apple.com/es/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/</link>
+      <link>https://www.technews.com/apple-lanza-chip-m3/</link>
+      <guid>https://www.technews.com/apple-lanza-chip-m3/</guid>
       <description>Apple sorprende al mercado con el lanzamiento de su nuevo MacBook impulsado por el chip M3.</description>
       <pubDate>Mon, 01 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     
     <item>
       <title>Google presenta Android 15</title>
-      <link>https://www.xataka.com/basics/android-15-sus-principales-novedades-dispositivos-compatibles-como-instalarlo</link>
+      <link>https://www.technews.com/android15</link>
+      <guid>https://www.technews.com/android15</guid>
       <description>La nueva versión del sistema operativo de Google incorpora mejoras de privacidad y rendimiento.</description>
       <pubDate>Wed, 27 Mar 2024 14:30:00 GMT</pubDate>
     </item>
     
     <item>
       <title>ChatGPT ahora con voz y visión</title>
-      <link>https://es.wired.com/articulos/chatgpt-ahora-puede-analizar-tu-entorno-y-el-contenido-de-tu-pantalla-con-su-funcion-de-video-en-tiempo-real</link>
+      <link>https://www.technews.com/chatgpt-voz-vision</link>
+      <guid>https://www.technews.com/chatgpt-voz-vision</guid>
       <description>OpenAI lanza nuevas funciones para su modelo de IA, incluyendo capacidad de conversación por voz y análisis de imágenes.</description>
       <pubDate>Fri, 22 Mar 2024 09:00:00 GMT</pubDate>
     </item>
